@@ -12,8 +12,8 @@
             <ColumnDefinition Width="103*"/>
             <ColumnDefinition Width="386*"/>
         </Grid.ColumnDefinitions>
-        <Button x:Name="button" Content="Form 一" HorizontalAlignment="Left" Margin="225,256,0,0" VerticalAlignment="Top" Width="84" Click="button_Click" Height="19" Grid.Column="2"/>
-        <Button x:Name="button1" Content="Button" HorizontalAlignment="Left" Margin="88,256,0,0" VerticalAlignment="Top" Width="75" Height="19" Grid.Column="2"/>
+        <Button x:Name="button" Content="Form 一" HorizontalAlignment="Left" Margin="223,233,0,0" VerticalAlignment="Top" Width="84" Click="button_Click" Height="19" Grid.Column="2"/>
+        <Button x:Name="button1" Content="Button" HorizontalAlignment="Left" Margin="24,233,0,0" VerticalAlignment="Top" Width="75" Height="19" Grid.Column="2"/>
 
     </Grid>
 </Window>
